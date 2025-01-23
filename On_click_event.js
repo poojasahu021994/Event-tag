@@ -7,6 +7,7 @@ function dom(){
     a.style.fontSize = "20px";
     a.style.fontStyle ="italic";
     a.style.backgroundColor ="red"
+    
     check=false;
     }
     else{
